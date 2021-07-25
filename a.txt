@@ -1,7 +1,1 @@
-<<<<<<< HEAD
-This is the orignal line 1 in main.
-=======
-This is something random  line 1 in test.
->>>>>>> updating in test.
-
 this is the default line 1 for main
